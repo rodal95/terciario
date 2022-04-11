@@ -21,6 +21,6 @@ Algoritmo sin_titulo
 			FinSi
 		FinSi
 	SiNo
-		Escribir 'ingreso una nota menor a 1'
+		Escribir 'ingreso una nota QUE ES INCORRECTA'
 	FinSi
 FinAlgoritmo
